@@ -45,7 +45,7 @@
 ![игра](https://github.com/user-attachments/assets/8118bf1a-9a2e-4e1e-ab61-f561cb6f4095)
 
 
-image
+
 
 Задание 3.Создание ключа API для передачи данных из google-таблицы в Unity
 Создать ключ API для получения данных из таблиц и их обработки в Unity.
